@@ -1,20 +1,26 @@
 ---
-layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: Welcome
 permalink: /
+hero: "/images/amy-in-oregon.jpg"
 eleventyNavigation:
-  key: Home
-  order: 0
+  key: Welcome
+  order: 1
 ---
-# Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+## Hi. I'm Amy Dawson!
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+- I teach 8th grade math at Trumansburg Middle School, and blog about math at [mathista.org](https://mathista.org/)
+- I am the proprietor of [Emoticakes](https://emoticakes.com/), a commercial bakery in Trumansburg. 
+- I love to write about my running, hiking, and swimming. Find out [why I consider myself an accidental runner](/about-me/)!
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+## What's New?
 
-Or click the button below to deploy your own copy of this project to Netlify.
+<ul class="l-grid post-grid">
+  {%- for item in collections.allPosts | reverse  -%}
+  {% if loop.index <= 3 %}
+  {% include '_includes/components/post-teaser.njk' %}
+  {% endif %}
+  {%- endfor -%}
+</ul>
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Want to know more? How about a coffee, virtual or IRL? <a href="/contact/">Contact me</a>.

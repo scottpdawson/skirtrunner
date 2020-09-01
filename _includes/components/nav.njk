@@ -1,10 +1,30 @@
-<nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
-  {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
-  {%- endfor %}
-  </ul>
-</nav>
+<div class="about">
+  <a href="/"><img src="/static/img/amy_dawson.jpg" class="avatar" title="Amy Dawson" /></a>
+  <p>
+    <b>Hi.</b> I'm Amy Dawson. I'm a middle school math teacher, professional baker, and athlete based in upstate New York.
+  </p>
+  <a href="/search" id="search-link"><i class="nav-icon fas fa-search" title="Search this site"></i></a>
+  <a href="/contact" id="contact-link"><i class="nav-icon fas fa-envelope" title="Contact Amy Dawson"></i></a>
+  <nav>
+    {% set navPages = collections.all | eleventyNavigation %}
+    <ul class="nav">
+    {%- for entry in navPages %}
+      <li>
+        <a href="{{ entry.url | url }}"{% if entry.url == page.url or navigation == entry.title %}
+          class="active"
+        {% endif %}>
+          <i class="nav-icon 
+          {% if entry.title == "Welcome" %}fas fa-home{% endif %}
+          {% if entry.title == "Training" %}fas fa-dumbbell{% endif %}
+          {% if entry.title == "Racing" %}fas fa-running{% endif %}
+          {% if entry.title == "Swimming" %}fas fa-swimmer{% endif %}
+          {% if entry.title == "Hiking" %}fas fa-hiking{% endif %}
+          {% if entry.title == "Musing" %}fas fa-microphone-alt{% endif %}
+          "></i>
+          <span class="nav-title">{% if entry.title != "Welcome" %}{{ entry.title }}{% endif %}</span>
+        </a>
+      </li>
+    {%- endfor %}
+    </ul>
+  </nav>
+</div>

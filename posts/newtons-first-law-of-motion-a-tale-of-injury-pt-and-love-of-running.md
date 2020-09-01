@@ -1,0 +1,30 @@
+---
+title: "Newton's First Law of Motion: A Tale of Injury, PT and Love of Running"
+date: "2014-07-18"
+permalink: "musings/newtons-first-law-of-motion-a-tale-of-injury-pt-and-love-of-running/"
+hero: "/images/2014/07/IMG_0035.jpg"
+navigation: "Musing"
+tags:
+    - injury
+description: "I can no longer put any weight on my left leg. I realize one morning at church when I'm making an announcement about an upcoming event that all my weight is on my right leg."
+---
+
+Four years ago I read [Born to Run](http://www.amazon.com/gp/product/B0028MBKVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0028MBKVG&linkCode=as2&tag=lunchtaker-20&linkId=LWURLEPMK5XVTURP "Born to Run") right before Scott and I were ready to decide on our annual challenge. Naturally after reading the book, a marathon rose to the top for our challenge. The book talked about the virtues of barefoot or minimal shoe running. As with most everything we do, we jumped in hook, line and sinker. Vibram Five Finger shoes arrived, and I started [Hal Higdon's Novice 2 marathon training plan](http://www.halhigdon.com/training/51138/Marathon-Novice-2-Training-Program "Hal Higdon Novice 2"). It was April and because I hadn't been running, I planned to do each week twice for a September marathon.
+
+Fast forward 6 weeks. I can no longer put any weight on my left leg. I realize one morning at church when I'm making an announcement about an upcoming event that all my weight is on my right leg. I feel like a flamingo. I can't walk up the stairs, and I finally admit that I'm injured. To my surprise, I got an immediate appointment with [Dr. Getzin](http://www.cayugamed.org/SMcontent.cfm?profileID=3&serviceID=95 "Dr. Getzin"), an amazing triathlete with an excellent reputation as a sports doctor. I enter his office and see beautiful framed photos of triathlons in action and quietly pull out my book. Before I even finished page one I was whisked back into the office. He asks me how this happened, and I start at the [beginning](/about-me/ "About Me"): the annual challenge, the fact that I did my first triathlon the prior summer, and of course the "barefoot" training I was using for my first marathon. I knew what an amazing athlete he was, and I suddenly felt pretty silly sharing my story. He smiled kindly and said, _"Well, you've discovered Newton's First Law of Motion: An object in motion tends to stay in motion."_ After a thorough workup including x-rays, I left with a simple and common diagnosis, Runner's Knee and an inflamed IT band. I had an appointment for physical therapy with another amazing athlete that same day, Dr. Getzin's friend and colleague [Brian Lee](http://www.cayugamed.org/PTcontent.cfm?profileID=15&serviceID=95 "Brian Lee").
+
+I entered Brian's office and he asked what brought me there. This time I got straight to the point. _"I read Born to Run, bought 5 Finger shoes and started training for a marathon."_ He chuckled, _"Didn't everyone?"_ And, _"How many miles were you running weekly before you started the plan."_ Me, _"none."_ And this is the problem. Hal Higdon's plan clearly states,
+
+> "Runners differ greatly in ability, but ideally before starting a marathon program, you should have been running about a year. You should be able to comfortably run distances between 3 and 6 miles. You should be training 3-5 days a week, averaging 15-25 miles a week." - Hal Higdon
+
+Brian put me through a series of physical tests, and I realize I'm not exactly passing with flying colors. He asks me if I do yoga or core work. My proud answer, _"No, I run"_ and when he asks, _"Are you a member at Island Fitness?"_ I flippantly say _"I have a home gym. I don't really like organized classes or monthly membership costs."_ By the end of the appointment I learn that I won't be doing the Rochester Marathon in September, but if I follow everything that he asks me to do, I will be able to go on our family hiking trip to Oregon in August (see above picture from the top of South Sister in Oregon, 2010). This trip means everything to me, and knowing that I can climb the mountains if I rehab well means that I will be committed to following every PT direction. I bawled all the way home and then looked things up online. Notoriously squeamish about anything medical, I promptly got light-headed and collapsed onto my bed. I looked up a few minutes later to find Scott standing over me looking very concerned.
+
+Months went by with twice weekly appointments and daily PT exercises. I learned about self massage, the importance of core strength and learned to reform my running stride. Most importantly, I stopped taking my physical body for granted. Brian is my age, and he commented at that first appointment, _"We're not sixteen anymore. We can't just go out and do anything without taking care to keep our core strong, etc."_ I liked how he said "we" and I loved that he really believed I could reform my stride and run again. I channeled that belief and during that rehab time, I grew to **LOVE** running. Scott and I enjoyed Island Fitness and I embraced yoga, spinning, BodyPump and Pilates.
+
+{% picture "/images/2014/07/IMG_1456.jpg", "Before a race with Elizabeth, 2014" %}
+
+I spoke with another runner on a group run last week, and he commented that he got all of his injuries out of the way when he first started running. I chuckled. Yes, injuries are tough. They are funny things. They happen to us all, and it is how we react to them that defines us. Four years later I consider myself a runner. I no longer apologetically talk about my pace or my achievements. I know that I'm not an amazing athlete like either of these two men, but I have grown into a much stronger athlete since that first injury.
+
+Earlier this week, Newton's First Law of Motion was my mantra during the run portion of the Cayuga Lake Triathlon practice night. Suddenly, the memory of the injury, the appointment and physical therapy came flooding back to me.
+
+I'm proud of how far I've come, and grateful to these two gentlemen for their work with me!
