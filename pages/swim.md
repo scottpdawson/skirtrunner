@@ -9,8 +9,6 @@ eleventyNavigation:
   order: 4
 ---
 
-{% pictureRt "/images/2014/09/IMG_1350.jpg", "Swimming in Cayuga Lake" %}
-
 Each year for several years, my [husband](https://scottpdawson.com/ "Scott Dawson") and I had an annual challenge. One year we biked around [Cayuga Lake](http://en.wikipedia.org/wiki/Cayuga_Lake "Cayuga Lake"), another we ran our first half marathon, and the third year we tackled our first sprint triathlon. After the sprint tri we were hooked on exercise! We put countless hours in training over the next many years, and improved as athletes. After doing the Cayuga Lake Tri four times, however, the swim is still the most stressful portion for me. I've tried several things to improve swimming and I'm kind of stalled. 2014-2015 is the year I plan to really work on improved comfort and efficiency.
 
 ## Recent Swimming Posts
