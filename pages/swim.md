@@ -1,7 +1,7 @@
 ---
 title: "Swimming"
 permalink: "swim/"
-hero: "/images/2014/09/IMG_1348-Version-2.jpg"
+hero: "/images/2014/09/IMG_1341-e1414714522326.jpg"
 navigation: ""
 description: ""
 eleventyNavigation:
