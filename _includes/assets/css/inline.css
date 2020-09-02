@@ -123,7 +123,7 @@ footer .solid-footer {
 }
 .main-carousel {
 	margin-bottom: 40px;
-	background-color: #dadf85;
+	background-color: #8aacad;
 	border-radius: 10px;
 	position: relative;
 	box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
@@ -204,7 +204,7 @@ article img:before, article img:after {
     linear-gradient(315deg, #ccc 25%, transparent 25%),
     linear-gradient(45deg, #aaa 25%, transparent 25%);	
   background-size: 100px 100px;
-  background-color: #dedede;
+  background-color: #e7f5f1;
   border-bottom: 1px solid #cecece;
   background-attachment: fixed;
 }
@@ -244,9 +244,9 @@ article img:before, article img:after {
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 article a, footer a, .search-results a {
-	color: #0068a9;
+	color: #3a8a72;
     text-decoration: none;
-    background-image: linear-gradient(to right,#0068a92e 50%,#0068a92e 50%);
+    background-image: linear-gradient(to right,#659a8a2e 50%,#659a8a2e 50%);
     background-position: 0 1.18em;
     background-repeat: repeat-x;
     padding-bottom: 3px;
@@ -398,7 +398,7 @@ article li p {
 }
 
 .relatedPosts {
-    background: #dbe08466;
+    background: #8aacad44;
     padding: 25px;
     border-radius: 10px;
     line-height: 1.3em;
@@ -414,7 +414,7 @@ article li p {
 
 .relatedTags {
 	border-radius: 10px;
-    background: #5478a41a;
+    background: #8aacad44;
     padding: 10px;
 	margin-bottom: 1em;
 	position: relative;
@@ -432,7 +432,7 @@ article li p {
     font-size: 3em;
     top: 5px;
     left: -20px;
-    opacity: .3;
+	color: #659a8a;
 }
 
 form {
