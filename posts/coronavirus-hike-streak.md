@@ -19,7 +19,7 @@ Our family went to [Atlas Bowl](https://atlasbowl.com/) on Saturday night March 
 
 ## The hike streak begins
 
-In hindsight, it seems funny that we were already so sad and that we already felt a need to mark time. On Monday March 16, feeling the need for routine, I asked my daughter, “What if we start a hike streak?” It would give us something to look forward to. Elizabeth was game! We headed to the [Taughannock Falls](https://taughannock.us/) rim trail near our house. This trail has approximately 485 feet of gain and it is one of our regular hiking routes. In fact, Taughannock is one of the things that I love the **most** about living here. Just having the trail so close is enough to keep me longing to be in Oregon’s mountains just a little less ... but that story is for another time.
+In hindsight, it seems funny that we were already so sad and that we already felt a need to mark time. On Monday March 16, feeling the need for routine, I asked my daughter, “What if we start a hike streak?” It would give us something to look forward to. Elizabeth was game! We headed to the [Taughannock Falls](https://taughannock.us/) rim trail near our house. This trail has approximately 485 feet of gain and it is one of our regular hiking routes. In fact, Taughannock is one of the things that I love the **most** about living here. Just having the trail so close is enough to keep me longing to be in Oregon’s mountains just a little less ... but that story is for another time. We were particularly grateful to Governor Cuomo and the New York State Parks for doing everything they could to keep our parks open and safe for the entirety of our hike streak. 
 
 ## Rain, Snow, Wind and Sleet
 
