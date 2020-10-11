@@ -33,6 +33,10 @@ March was filled with wild weather. We agreed that we would hike no matter the w
 
 About a month into our streak, I said, “It’s too bad we didn’t take pictures of ourselves for this.” With no end to the pandemic's upheavel of our "life as we knew it" we reasoned this could go on for a lot longer. We took a picture that morning as we started hiking, and every morning after that until we ended on day 200. All of our hikes are in my Strava account: [this one's day 200](https://www.strava.com/activities/4139562437).
 
+## All good things must come to an end
+
+Why did we stop at 200? Well, purely practical reasons. With daylight hours diminishing, we found that some of our later hikes were starting in the dark. As a full-time teacher, I couldn't push the hike later in the day. As a full-time student at Ithaca College, Elizabeth couldn't do that, either, and her afternoons were jam-packed with classes and homework. So, we stopped with full hearts and tough quads at Day 200. 
+
 ## What the streak did for us
 
 Elizabeth and I have always been very close. This further strengthened our mother-daughter relationship. We talked about everything imaginable on those hour-long hikes. We marked the passing of time, planned for the future and looked forward to time together every day. We only had one day where we couldn't hike together because Elizabeth went to Whiteface Mountain with a friend. My friend Lynn joined me at Taughannock that day, and Elizabeth and I both took pictures of our respective hikes. During the streak, [Xander, Scott and I ran a family half marathon](/training/our-own-skunk-cabbage-half/) and Elizabeth was our driver and water stop girl and cheerer. We also hiked that day. Later in the spring [the three of us ran a family marathon](/race-report/family-marathon/). That's 26.2 miles! Again, Elizabeth supported us. We also hiked that day. Those were some tired legs!
