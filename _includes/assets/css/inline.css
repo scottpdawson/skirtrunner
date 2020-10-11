@@ -236,7 +236,8 @@ article img:before, article img:after {
 }
 .avatar {
 	width: 130px;
-    border-radius: 100px;
+	height: 130px;
+	border-radius: 100px;
     margin: -150px auto 10px auto;
     display: block;
     border: 5px solid #757575;
