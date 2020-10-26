@@ -57,3 +57,8 @@ When you look back on 200 days of hiking, you can't not be impressed by what it 
 Whew! That's a lot. We're glad we spread it out over 200 days! Here's a video montage of the days we have pictures for. Fantastic memories.
 
 https://vimeo.com/464833146
+
+## In the News
+
+Read more about our hike streak in these press mentions:
+- [Ithaca Times: Equally Motivated](https://www.ithaca.com/sports/steve_lawrence/equally-motivated/article_3d12e72c-13ab-11eb-9e2c-9346b4ec728c.html)
