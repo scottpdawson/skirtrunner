@@ -60,5 +60,6 @@ https://vimeo.com/464833146
 
 ## In the News
 
-Read more about our hike streak in these press mentions:
-- [Ithaca Times: Equally Motivated](https://www.ithaca.com/sports/steve_lawrence/equally-motivated/article_3d12e72c-13ab-11eb-9e2c-9346b4ec728c.html)
+On October 21, 2020, the Ithaca Times covered our hike streak (see [Ithaca Times: Equally Motivated](https://www.ithaca.com/sports/steve_lawrence/equally-motivated/article_3d12e72c-13ab-11eb-9e2c-9346b4ec728c.html)). On November 6, 2020, New York State Governor Andrew M. Cuomo linked to this post as part of his daily newsletter's "Deep Breath Moment." That was pretty amazing! 
+
+{% picture "/images/2020/11/cuomo-email-hike-streak.png", "" %}
