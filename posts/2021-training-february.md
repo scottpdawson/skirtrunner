@@ -6,7 +6,7 @@ hero: "/images/2021/02/IMG_0522.JPG"
 navigation: "Training"
 tags:
     - training
-description: "At the tail end of January I started to get swamped with baking for Emoticakes. Meanwhile, my 8th graders and my team were returning to in-person learning at school. This meant 10 fewer baking hours per week just because of the time savings with not needing to get ready and my ability to use my lunch period for baking while working from home."
+description: "At the tail end of January I started to get swamped with baking for Emoticakes. Meanwhile, my 8th graders and my team were returning to in-person learning at school."
 ---
 
 At the tail end of January I started to get swamped with baking for Emoticakes. Meanwhile, my 8th graders and my team were returning to in-person learning at school. This meant 10 fewer baking hours per week just because of the time savings with not needing to get ready and my ability to use my lunch period for baking while working from home. I knew all that would take some adjusting so I didn’t set any goals for this month other than to record my workouts. 
