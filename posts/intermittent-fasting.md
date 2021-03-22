@@ -2,7 +2,7 @@
 title: "Intermittent Fasting"
 date: "2021-03-22"
 permalink: "musings/intermittent-fasting/"
-hero: "/images/2021/fasting/october.jpg"
+hero: "/images/2021/fasting/august.jpg"
 navigation: "Musing"
 tags:
     - intermittent fasting
