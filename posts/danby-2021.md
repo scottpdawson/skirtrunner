@@ -51,4 +51,4 @@ In the race as I approached the last bend my body stiffened up. The bridge is ne
 
 I ran by the last aid station and heard my friend Joel giving the choice between stopping after the 10K or going on to do a 20K. I took the turn for the finish and ran in. Scott and I enjoyed a donut and chatted with people before heading home. That familiar hopeful feeling that always finds me after a race was back. It was so much FUN to see people and run with others. It was such a great challenge for me to push myself to run trails. I know running trails is challenging and GOOD for me. It builds my strength, draws on my core stability and keeps me focused on the moment at hand.
 
-With just a few months left in the FLRC Challenge, I’m definitely looking forward to getting as many more challenge course runs in!
+With just a few months left in the FLRC Challenge, I’m definitely looking forward to getting many more challenge course runs in!
