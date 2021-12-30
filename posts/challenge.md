@@ -46,7 +46,7 @@ These are the pictures I took from my time running the Challenge courses. Most o
     { caption: "All of us before the Thom B group run", image: "/images/2021/challenge/IMG_8375.JPG" }
 ]%}
 
-The chart below shows the frequency of running. You can see that it starts with once a week long running on either the Black Diamond Trail or the Skunk Cabbage and then expands to include other courses in the 2nd half of 2021. I also created some [scatter plot charts](https://docs.google.com/spreadsheets/d/1M4oTCYoGa2whvP7U3fTlcGln_lcRXEf9wDnoFAXx44I/edit?usp=sharing) of each course.
+The chart below shows the frequency of running. You can see that it starts with once a week long running on either the Black Diamond Trail or the Skunk Cabbage and then expands to include other courses in the 2nd half of 2021. I also created some [scatter plot charts](https://docs.google.com/presentation/d/e/2PACX-1vSx3AiQ9Uj2WSe4LI6WD2kHUGmhXbX_veMirw31vjsumOA6-J4J4DLkNzXszA6Gf3AEFTHtZFRCit6C/pub?start=false&loop=false&delayms=3000) of each course.
 
 <div id="container"></div>
 
