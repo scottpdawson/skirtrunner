@@ -1,0 +1,496 @@
+{
+  "courses": [
+    {
+      "name": "East Hill Rec Way",
+      "description": "This course transported me right back to the Mithacal Milers winter indoor training group. It was a great personal challenge to try to improve on the one mile each time I ventured out there!",
+      "fastestTime": "6:59",
+      "fastestPlace": "19th",
+      "fastestStrava": 5942460944,
+      "distance": "1 mile"
+    },
+    {
+      "name": "Cornell Botanic Gardens",
+      "description": "A course I'd never even considered running before, the course is lovely. It is short enough to consider doing 2 or 3 times or using as a warm-up for the recway mile.",
+      "fastestTime": "20:35",
+      "fastestPlace": "18th",
+      "fastestStrava": 5828677441,
+      "distance": "2.4 miles"
+    },
+    {
+      "name": "Waterfront Trail",
+      "description": "Stewart Park is one of my least favorite places to run in the area. I am thrilled that there was a course here because it made me run this! It turned out to be one of my more favorite after work runs.",
+      "fastestTime": "26:26",
+      "fastestPlace": "18th",
+      "fastestStrava": 5893012516,
+      "distance": "3.1 miles"
+    },
+    {
+      "name": "Tortoise & Hare",
+      "description": "Scott and other friends have run this over the years and I was always too scared to sign up. I really LOVED running this course. One of my favorite things about the challenge was that it pushed me to do things I wouldn't have tried in another year.",
+      "fastestTime": "1:03:51",
+      "fastestPlace": "18th",
+      "fastestStrava": 6109217277,
+      "distance": "5.4 miles"
+    },
+    {
+      "name": "Danby Down & Dirty",
+      "description": "I wish we had braved this trail earlier in the season. I was so afraid of the name that I almost didn't even run it! I'm so glad I did and also glad that Scott convinced me to sign up for the race. It was a really great growth experience. This course made me start to love 'real' trail again.",
+      "fastestTime": "1:17:10",
+      "fastestPlace": "17th",
+      "fastestStrava": 6054606434,
+      "distance": "6 miles"
+    },
+    {
+      "name": "South Hill Rec Way",
+      "description": "Set it and forget it type course that also manages to offer some strategy. My favorite thing about this run was learning to get over my fear of the hill. On a mostly flat trail, sometimes my fear on the one little hill was palpable. One day I ran this after recently running a 'real' trail with lots of hills. Perspective!",
+      "fastestTime": "1:01:49",
+      "fastestPlace": "16th",
+      "fastestStrava": 6161643695,
+      "distance": "6.8 miles"
+    },
+    {
+      "name": "Thom B. Trail Run",
+      "description": "I think I got lost literally EVERY time I ran this. But, I did move up from true fear on the trail to pure enjoyment. One of my last times I ran this was a cold and rainy group run. I had SO much fun meeting new people as I realized group runs truly offer something for any pace.",
+      "fastestTime": "1:39:21",
+      "fastestPlace": "20th",
+      "fastestStrava": 6245419108,
+      "distance": "8.5 miles"
+    },
+    {
+      "name": "Forest Frolic",
+      "description": "I'll forever think of my kids' ski coach, Steve on this course. He used to race direct the FLRC race version - even with his million flags to keep you from getting lost I managed to get lost with my kids years ago. It was a great challenge to do on my own all these years later!",
+      "fastestTime": "2:04:41",
+      "fastestPlace": "19th",
+      "fastestStrava": 5869005440,
+      "distance": "9 miles"
+    },
+    {
+      "name": "Black Diamond Trail",
+      "description": "My favorite of all the challenge courses, the Black Diamond starts at the bottom of the trail for a 5 mile uphill. At the half way point you get to turn around and enjoy the gradual descent for the 2nd half. ",
+      "fastestTime": "1:29:06",
+      "fastestPlace": "14th",
+      "fastestStrava": 5904899703,
+      "distance": "10 miles"
+    },
+    {
+      "name": "Pseudo Skunk Cabbage",
+      "description": "Similar to the FLRC official half marathon of the same name, this course feels hilly! The last 5 miles are tough, but overall it is a great challenge to be had.",
+      "fastestTime": "2:01:40",
+      "fastestPlace": "14th",
+      "fastestStrava": 6128570120,
+      "distance": "13.1 miles"
+    }
+  ],
+  "challenge": [
+    {
+      "date": "3/20/21",
+      "course": "Black Diamond Trail",
+      "time": "1:37:57"
+    },
+    {
+      "date": "3/27/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:09:51"
+    },
+    {
+      "date": "4/3/21",
+      "course": "Black Diamond Trail",
+      "time": "1:36:55"
+    },
+    {
+      "date": "4/10/21",
+      "course": "Black Diamond Trail",
+      "time": "1:34:23"
+    },
+    {
+      "date": "4/18/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:05:19"
+    },
+    {
+      "date": "4/20/21",
+      "course": "Black Diamond Trail",
+      "time": "1:34:26"
+    },
+    {
+      "date": "4/24/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:34"
+    },
+    {
+      "date": "5/2/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:13:40"
+    },
+    {
+      "date": "5/6/21",
+      "course": "Black Diamond Trail",
+      "time": "1:35:46"
+    },
+    {
+      "date": "5/9/21",
+      "course": "Black Diamond Trail",
+      "time": "1:30:06"
+    },
+    {
+      "date": "5/12/21",
+      "course": "Black Diamond Trail",
+      "time": "1:34:21"
+    },
+    {
+      "date": "5/16/21",
+      "course": "Black Diamond Trail",
+      "time": "1:35:27"
+    },
+    {
+      "date": "5/23/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:14:28"
+    },
+    {
+      "date": "5/29/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:33"
+    },
+    {
+      "date": "6/12/21",
+      "course": "Black Diamond Trail",
+      "time": "1:38:40"
+    },
+    {
+      "date": "6/20/21",
+      "course": "Black Diamond Trail",
+      "time": "1:34:16"
+    },
+    {
+      "date": "6/23/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:39"
+    },
+    {
+      "date": "7/18/21",
+      "course": "Black Diamond Trail",
+      "time": "1:31:04"
+    },
+    {
+      "date": "7/23/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:39"
+    },
+    {
+      "date": "7/24/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "23:32"
+    },
+    {
+      "date": "7/24/21",
+      "course": "East Hill Rec Way",
+      "time": "7:56"
+    },
+    {
+      "date": "7/24/21",
+      "course": "Waterfront Trail",
+      "time": "30:26"
+    },
+    {
+      "date": "7/26/21",
+      "course": "Tortoise & Hare",
+      "time": "1:09:43"
+    },
+    {
+      "date": "7/27/21",
+      "course": "East Hill Rec Way",
+      "time": "7:38"
+    },
+    {
+      "date": "7/29/21",
+      "course": "Waterfront Trail",
+      "time": "30:13"
+    },
+    {
+      "date": "7/29/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "25:19"
+    },
+    {
+      "date": "7/30/21",
+      "course": "East Hill Rec Way",
+      "time": "7:24"
+    },
+    {
+      "date": "7/30/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:24"
+    },
+    {
+      "date": "7/31/21",
+      "course": "South Hill Rec Way",
+      "time": "1:03:31"
+    },
+    {
+      "date": "8/5/21",
+      "course": "South Hill Rec Way",
+      "time": "1:03:30"
+    },
+    {
+      "date": "8/7/21",
+      "course": "Waterfront Trail",
+      "time": "28:41"
+    },
+    {
+      "date": "8/8/21",
+      "course": "South Hill Rec Way",
+      "time": "1:05:22"
+    },
+    {
+      "date": "8/9/21",
+      "course": "Forest Frolic",
+      "time": "2:39:28"
+    },
+    {
+      "date": "8/14/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:47:43"
+    },
+    {
+      "date": "8/15/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:24"
+    },
+    {
+      "date": "8/16/21",
+      "course": "Danby Down & Dirty",
+      "time": "1:32:34"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:48"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "23:22"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "23:05"
+    },
+    {
+      "date": "8/19/21",
+      "course": "East Hill Rec Way",
+      "time": "7:39"
+    },
+    {
+      "date": "8/20/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:46:00"
+    },
+    {
+      "date": "8/21/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "20:35"
+    },
+    {
+      "date": "8/28/21",
+      "course": "Forest Frolic",
+      "time": "2:04:41"
+    },
+    {
+      "date": "8/30/21",
+      "course": "Black Diamond Trail",
+      "time": "1:37:44"
+    },
+    {
+      "date": "9/2/21",
+      "course": "Waterfront Trail",
+      "time": "26:26"
+    },
+    {
+      "date": "9/3/21",
+      "course": "East Hill Rec Way",
+      "time": "7:17"
+    },
+    {
+      "date": "9/4/21",
+      "course": "Black Diamond Trail",
+      "time": "1:29:06"
+    },
+    {
+      "date": "9/6/21",
+      "course": "South Hill Rec Way",
+      "time": "1:02:57"
+    },
+    {
+      "date": "9/7/21",
+      "course": "Tortoise & Hare",
+      "time": "1:07:50"
+    },
+    {
+      "date": "9/9/21",
+      "course": "Waterfront Trail",
+      "time": "26:43"
+    },
+    {
+      "date": "9/11/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "21:25"
+    },
+    {
+      "date": "9/11/21",
+      "course": "East Hill Rec Way",
+      "time": "6:59"
+    },
+    {
+      "date": "9/12/21",
+      "course": "Forest Frolic",
+      "time": "2:08:27"
+    },
+    {
+      "date": "9/13/21",
+      "course": "Waterfront Trail",
+      "time": "29:12"
+    },
+    {
+      "date": "9/26/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:43:41"
+    },
+    {
+      "date": "9/28/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:31"
+    },
+    {
+      "date": "9/30/21",
+      "course": "Waterfront Trail",
+      "time": "29:29"
+    },
+    {
+      "date": "10/2/21",
+      "course": "Danby Down & Dirty",
+      "time": "1:17:10"
+    },
+    {
+      "date": "10/5/21",
+      "course": "Waterfront Trail",
+      "time": "29:40"
+    },
+    {
+      "date": "10/6/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:32"
+    },
+    {
+      "date": "10/6/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:14"
+    },
+    {
+      "date": "10/10/21",
+      "course": "Black Diamond Trail",
+      "time": "1:34:38"
+    },
+    {
+      "date": "10/11/21",
+      "course": "Tortoise & Hare",
+      "time": "1:05:09"
+    },
+    {
+      "date": "10/13/21",
+      "course": "Tortoise & Hare",
+      "time": "1:03:51"
+    },
+    {
+      "date": "10/14/21",
+      "course": "Black Diamond Trail",
+      "time": "1:33:56"
+    },
+    {
+      "date": "10/17/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:01:40"
+    },
+    {
+      "date": "10/19/21",
+      "course": "Black Diamond Trail",
+      "time": "1:30:56"
+    },
+    {
+      "date": "10/21/21",
+      "course": "Waterfront Trail",
+      "time": "28:38"
+    },
+    {
+      "date": "10/22/21",
+      "course": "South Hill Rec Way",
+      "time": "1:01:49"
+    },
+    {
+      "date": "10/30/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:49:47"
+    },
+    {
+      "date": "10/31/21",
+      "course": "South Hill Rec Way",
+      "time": "1:02:50"
+    },
+    {
+      "date": "11/2/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:01"
+    },
+    {
+      "date": "11/5/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:58"
+    },
+    {
+      "date": "11/5/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "23:22"
+    },
+    {
+      "date": "11/6/21",
+      "course": "Black Diamond Trail",
+      "time": "1:30:36"
+    },
+    {
+      "date": "11/8/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "23:01"
+    },
+    {
+      "date": "11/8/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "22:56"
+    },
+    {
+      "date": "11/11/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:39:21"
+    },
+    {
+      "date": "11/14/21",
+      "course": "Black Diamond Trail",
+      "time": "1:30:59"
+    },
+    {
+      "date": "11/20/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "2:09:23"
+    },
+    {
+      "date": "11/24/21",
+      "course": "Black Diamond Trail",
+      "time": "1:32:59"
+    },
+    {
+      "date": "11/27/21",
+      "course": "Black Diamond Trail",
+      "time": "1:44:17"
+    }
+  ]
+}
