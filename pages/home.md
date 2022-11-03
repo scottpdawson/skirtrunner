@@ -9,8 +9,8 @@ eleventyNavigation:
 
 ## Hi. I'm Amy Dawson!
 
-- I teach 8th grade math at Trumansburg Middle School, and blog about math at [mathista.org](https://mathista.org/)
-- I am the proprietor of [Emoticakes](https://emoticakes.com/), a commercial bakery in Trumansburg. 
+- I am a technology integration coach at Trumansburg Central School
+- I am the proprietor of [Emoticakes](https://emoticakes.com/), a commercial bakery in Trumansburg.
 - I love to write about my running, hiking, and swimming. Find out [why I consider myself an accidental runner](/about-me/)!
 
 ## What's New?
