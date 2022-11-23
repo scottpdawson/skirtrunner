@@ -48,10 +48,10 @@ We got our bibs. Scott and I registered at the same time, but my bib didn’t ha
 
 ## Dinner and Christmas village
 
- Soon it was time to head back to dinner with our friends Arthur and Emilie. Art and friend Alex were planning to run together and Art’s wife, Emilie would spectate. Alex’s family was also there to support her. We met at LaScala  and dined together on vast quantities of pasta. This was a different location of the same restaurant I’d eaten at when I ran [this race](https://skirtrunner.com/race-report/philadelphia-marathon-2013/) with Chantelle, Rob, and Jenny in 2013. The vibe was completely different from the other location, but it was fun to hang with friends and talk about our upcoming race. 
+ Soon it was time to head back to dinner with our friends Arthur and Emilie. Art and friend Alex were planning to run together and Art’s wife, Emilie would spectate. Alex’s family was also there to support her. We met at LaScala's Fire and dined together on vast quantities of pasta. This was a different location of the same restaurant I’d eaten at when I ran [this race](https://skirtrunner.com/race-report/philadelphia-marathon-2013/) with Chantelle, Rob, and Jenny in 2013. The vibe was completely different from the other location, but it was fun to hang with friends and talk about our upcoming race. 
 
  
- {% picture "/images/2022/philly/dinner.jpg", "At LaScala's with Art and Emilie" %}
+ {% picture "/images/2022/philly/dinner.jpg", "At LaScala's Fire with Art and Emilie" %}
 
 On the way there we enjoyed wandering through the Christmas village in the city. I took a bunch of pictures to capture the vibe of the evening before the race. It was really pretty and I was starting to feel pretty optimistic about the day ahead. 
 
@@ -141,6 +141,8 @@ What’s next for me? Well, 2023 is our 50-50 and our 25th wedding anniversary. 
 All in all, despite the challenges, this was a good growth opportunity and a great chance to show myself that when faced with a time result that I know I won’t be proud of, that I was able to push through instead of taking the DNF.
 
 ## Results
+
+Scott wrote about his much more positive experience and shared all the details of the Amazing Race shoe team. [Check it out](https://scottpdawson.com/philadelphia-marathon-2022/)!
 
 **Time:** 4:48:29
 **F 45-49:** 192/314
