@@ -5,7 +5,7 @@ permalink: "swim/halfway-there-total-immersion-level-2-week-4/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "This week Shane had us try a drill that we'd done back at the beginning of Level 1. I remember when we did this in Level 1 that I didn't get it at all. It is basically the 'painting' movement with our arm."
 ---
 
@@ -31,4 +31,4 @@ We went through a series of drills that some of us were really confused by. We w
 
 Most of the evening, I felt like my right side "got it" and I was struggling with my left side. On the left, things felt loose and just unplanned while the right felt tighter and I felt in control. Shane's first words in the video were just the opposite - my left side was looking more comfortable and relaxed. There it is; relaxed. He keeps telling us to stop thinking and let our body get into flow.
 
-<iframe src="//player.vimeo.com/video/118081221" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=u3wKwyfxeRg

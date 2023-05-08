@@ -5,7 +5,7 @@ permalink: "training/our-own-skunk-cabbage-half/"
 hero: "/images/2020/04/9B3F9F2C-5FB5-4160-9D0F-AF6DD9E84F0E_1_105_c.jpg"
 navigation: "Training"
 tags:
-    - skunk
+  - skunk
 description: "The FLRC cancelled the Skunk Cabbage Classic on the very day of our last MITHACAL Milers training. They had just learned that Cornell likely wouldn't let them host a large event and made the prudent decision to cancel."
 ---
 
@@ -72,7 +72,7 @@ I enjoyed this stretch just as much on my own as I do in the race. It is typical
 
 As I turned onto this side road I saw Elizabeth again. I'd hit my 7 mileish water stop. I saw chalk signs and said, "can you take a picture of these?" She inquired why I wanted a picture. I said, "because they are great!" She laughed and said, "I drew them!" Yes, somehow I thought some random stranger had been writing encouragement in chalk for me. This one said, "run like you are being chased by a bear!" This made me fondly remember one of Xander's cross country races. He and a friend were racing for the alternate spot in Sectionals. Both boys had been in the 8th spot off and on all season and whoever came out on top in the last race would attend. I was nervous for him. He often got stuck in his head and sometimes he didn't. It all depended on his (and his friend's) mental state that day. As the last curve happened in that race his friend was right behind him. I shouted as loudly as I could, "The BEAR is there Xander!" In the end he eeked out a small win and went to sectionals.
 
-<iframe src="https://player.vimeo.com/video/404664249" width="100%" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=rnuK-maoOdE
 
 {% lightbox [
     { caption: "Supportive chalk messages", image: "/images/2020/04/19CDACF7-84AA-46B3-9CCA-B2B714374D93_1_105_c.jpg" },

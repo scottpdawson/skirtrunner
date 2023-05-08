@@ -5,7 +5,7 @@ permalink: "hiking/elk-meadows-to-gnarl-ridge/"
 hero: "/images/2018/08/IMG_1723.jpg"
 navigation: "Hiking"
 tags:
-    - oregon
+  - oregon
 description: "After buying Elizabeth some brand new trail shoes from Road Runner Sports in Portland she was good to go for our hike the 2nd day. After reading a lot of hike descriptions we settled on Elk Meadows to Gnarl Ridge."
 ---
 
@@ -79,9 +79,7 @@ Unfortunately shortly before we arrived, Elizabeth got a bloody nose. The poor g
 
 We went back to our parking spot to spot a couple getting into their car right next to ours. I looked at her and said, "Roadrunner sports, right?" She had mentioned when we checked out the evening prior that she had two days off and would be heading out to Mt. Hood area for the first time! Sometimes this world we live in feels so small. What are the odds that we'd run into her during the 15 minutes we spent at Trillium Lake? When we shared the story with Sarah and Adam they grinned and said that kind of thing happens all the time in Portland.
 
-## Strava track and Relive
-
-<iframe src="https://player.vimeo.com/video/286655925" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+## Strava
 
 It's always fun to see the path and times on Strava, so here is that!! Interested in reading another point of view? Check out Scott's hike report on [Elk Meadows to Gnarl Ridge.](https://scottpdawson.com/elk-meadows-to-gnarl-ridge/)
 

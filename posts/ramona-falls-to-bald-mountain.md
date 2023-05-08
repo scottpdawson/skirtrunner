@@ -5,7 +5,7 @@ permalink: "hiking/ramona-falls-to-bald-mountain/"
 hero: "/images/2017/01/IMG_4806.jpg"
 navigation: "Hiking"
 tags:
-    - oregon
+  - oregon
 description: "This hike to Ramona Falls and Bald Mountain was the last hike of our trip to Oregon. We selected it because I swore that Sarah had taken me on this hike the very first time I went out to visit her."
 ---
 
@@ -75,7 +75,7 @@ After we enjoyed lunch, we were ready to continue on the rest of our journey. We
 
 Scott got a neat video of the [orographic lift](https://en.wikipedia.org/wiki/Orographic_lift) that we were observing on Mt. Hood. He also posted this video on his own [blog](https://scottpdawson.com/ramona-falls-to-bald-mountain/), as well as his recollections of the hike.
 
-<iframe src="https://player.vimeo.com/video/136852434" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=GPzzPbry1vA
 
 ## The rest of the story
 

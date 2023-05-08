@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-3-week-6-feeling-swimming/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "We've spent a lot of time with our House of Cards, doing great drills and plenty of time with work on form for swimming. This week, Shane had us start to work more on refining our body tipping point."
 ---
 
@@ -33,7 +33,7 @@ One of the things we had talked about learning in Level 3 was how to properly do
 
 Shane wanted us to focus on really _feeling_ swimming. To this end, he asked us to close our eyes in the water while we focused on delicately slipping one arm forward in the water. He wanted us to feel the water moving along our entire arm and keep our forearm "hidden" as it extends through the sleeve.
 
-This was fun. It changed the focus and made things feel a little easier. My forearm is not in the correct form, and I don't think that this improved anything about that, but I did find that with my eyes shut I was less worried about things and more zen in the water. I tried hard to _feel_ that water moving along my arm like Shane wanted us to.
+This was fun. It changed the focus and made things feel a little easier. My forearm is not in the correct form, and I don't think that this improved anything about that, but I did find that with my eyes shut I was less worried about things and more zen in the water. I tried hard to *feel* that water moving along my arm like Shane wanted us to.
 
 ## Double Fin Swim
 
@@ -41,4 +41,4 @@ We've been doing Yin/Yang drills for many weeks now. When they first started, I 
 
 ## The Video
 
-<iframe src="https://player.vimeo.com/video/125667711" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=lbmttgffwZE

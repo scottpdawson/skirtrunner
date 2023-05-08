@@ -9,7 +9,7 @@ time: "3:26:05"
 overall: "183/213"
 agegroup: "9/12"
 tags:
-    - triathlon
+  - triathlon
 description: "This year was really different from last year with training, most notably the swim. We switched fitness facilities and our new one is 10 minutes further from our house. Turns out that extra drive just pushes it over the edge for feasibility."
 ---
 
@@ -57,9 +57,9 @@ In the bathroom line, I struck up a conversation with the gentleman behind me. H
 
 The now familiar pre-swim corral phrase. It always seems to pop up!  One of the women said to us all, "do like Dory does and just keep swimming!" Yes, when the alternative is to stop and sink, one must just keep swimming!
 
-<iframe src="https://player.vimeo.com/video/228953529" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=qiuTYucSt98
 
-My wave went off before I could even worry too much, and soon I was in the fray of swimmers. I've been kicked before, but never as hard as I was just a few buoys in. I was behind someone breaststroking and I was foolishly trying to get around her. Not a fast swimmer, I should have taken a wider line or just settled in behind her. Still, I thought I had enough clearance. Instead she kicked me straight on in my eye, knocking my goggles off. I reacted quickly enough not to lose my contacts, and tried to put my goggles back on while holding a little orange buoy. I couldn't adjust them so I waved for a kayak and quickly swam over toward Kris. I was pretty freaked out and she took time to introduce herself, asked my name all while reassuring me me that I could hang as long as I needed. It was so early in the swim!  I got them back on as she said, "don't worry, there are still a few white caps behind you." "Great, I thought, now I am even farther back than I was before!" I started to swim again, but hadn't even made the next big buoy when my goggles were full of water again. I flagged another kayak and adjusted as quickly as possible so I could get on my way. I have never hung onto a kayak before and here I had done it twice in the span of what was probably less than 2 minutes!! Luckily this time it worked and I was on my way.  
+My wave went off before I could even worry too much, and soon I was in the fray of swimmers. I've been kicked before, but never as hard as I was just a few buoys in. I was behind someone breaststroking and I was foolishly trying to get around her. Not a fast swimmer, I should have taken a wider line or just settled in behind her. Still, I thought I had enough clearance. Instead she kicked me straight on in my eye, knocking my goggles off. I reacted quickly enough not to lose my contacts, and tried to put my goggles back on while holding a little orange buoy. I couldn't adjust them so I waved for a kayak and quickly swam over toward Kris. I was pretty freaked out and she took time to introduce herself, asked my name all while reassuring me me that I could hang as long as I needed. It was so early in the swim!  I got them back on as she said, "don't worry, there are still a few white caps behind you." "Great, I thought, now I am even farther back than I was before!" I started to swim again, but hadn't even made the next big buoy when my goggles were full of water again. I flagged another kayak and adjusted as quickly as possible so I could get on my way. I have never hung onto a kayak before and here I had done it twice in the span of what was probably less than 2 minutes!! Luckily this time it worked and I was on my way.
 
 The good thing was that I was now completely alone. It was just me and the buoy line until the green wave caught me. I set into a good pattern and despite being a slow swimmer I was fine. Thoughts in my head included, "this is easier than the [Gillie Girl](/triathlon/gillie-girl-sprint-triathlon-2017/) swim because of the buoy line," and "I'm not even cold yet!" Then, just before the turnaround the green caps started passing. Suddenly I was in a mass of fast swimming men!! I didn't get kicked though and if anything it was kind of fun. None of them were breast stroking so there was no real risk of being kicked hard. I found myself imagining that I was in the fray of my own wave. I looked at my watch and saw that it was 26 minutes to the turnaround. Wow, that is a bummer!! A very slow first half. Determined to have a better 2nd half, I tried to pick up my speed and take a straighter line. I had veered back and forth way too much on the first half. By the sprint buoy turnaround my hands and feet were frozen. I knew it would happen at some point, so instead of being annoyed I felt gratitude that I stayed warm for so long!  Soon, I knew I was back near shore because of the seaweed. Ironically, the seaweed I once feared is now my comfort. I wish we had it for the entire swim because you can look down and see your forward movement!! I headed into transition, trying not to hang my head. I was embarrassed about my slow swim time.
 
@@ -81,7 +81,7 @@ My friend Gail was participating in the sprint tri. I met her in [Shane's swim c
 
 Later I did catch her on the run and we laughed as I passed her. We talked after the race though when she rather tentatively if I had been struggling on the bike when she passed me. I said no that I hadn't and she had a look of "should I say something" pass on her face. I asked her what was up and she hesitated. I pushed a little bit as she finally said that my knees were splaying out on my bike so she thought maybe my bike wasn't fit properly. I told her several people had said this to me in the last year so perhaps it was high time to listen.
 
-My friend Jim is a bike guy and he was totally willing to check it out!! He moved my seat backwards and made some other small adjustments and I feel like things are going to be MUCH better!! I haven't had many rides since the race, but I don't think that my legs are going to splay out anymore which _should_ help with my speed and comfort on the bike.
+My friend Jim is a bike guy and he was totally willing to check it out!! He moved my seat backwards and made some other small adjustments and I feel like things are going to be MUCH better!! I haven't had many rides since the race, but I don't think that my legs are going to splay out anymore which *should* help with my speed and comfort on the bike.
 
 ## There's a difference between can't and don't want to
 
@@ -101,7 +101,7 @@ Post race we enjoyed our beer, bid my in-laws adios and caught up with fellow pa
 
 {% pictureRt "/images/2017/08/IMG_8994.jpg", "Done!" %}
 
-I was disappointed when I imported my times and checked Strava for last year's numbers. I was SLOWER in EVERYTHING this year; 3 minutes and change in the swim, 5 minutes and change in the bike, and just under a minute in the run. I am not sure what I expected, but the bike was the biggest surprise. 
+I was disappointed when I imported my times and checked Strava for last year's numbers. I was SLOWER in EVERYTHING this year; 3 minutes and change in the swim, 5 minutes and change in the bike, and just under a minute in the run. I am not sure what I expected, but the bike was the biggest surprise.
 
 The swim I could explain by lack of training and being kicked in the face. The run was within striking distance of last year and the bottom of my feet were killing me with every step. But the bike was really a big time difference. I'm hoping that adjusting my bike will help but I know I have to work hard on my pedal turnover.
 

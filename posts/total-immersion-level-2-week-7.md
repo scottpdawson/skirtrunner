@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-2-week-7/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "While practicing this week I decided to use the lap counter and swim the 400 distance for the Tri for the Y. This is a distance I'm very comfortable with and if Shane asked us to start class with a 400, I would be fine."
 ---
 
@@ -31,7 +31,7 @@ Eventually we got to the "yin-yang" drill. After one pass through, I felt like S
 
 To end class, Shane asked us to swim a continuous 300. The pool had emptied out, so we each had our own land. We were free to choose our tempo with the tempo trainer. He asked us to focus on a sustainable breathing pattern. I started with the trainer set at 146. This is my typical "comfy swimming" setting _(but Shane reminds me that for my short body I need to be striving for a much faster tempo)_. Halfway into my first length I realized I was hanging out waiting for the beep for awhile. I stopped to re-set to 136. I know one of my classmates typically uses this setting and thought I'd give it a go. To my surprise I was able to keep up with the beeps. Shane's YY drill had really helped me move more into the front quadrant. That meant my turnover was quicker, so the faster tempo felt comfortable.
 
-<iframe src="//player.vimeo.com/video/119965751" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=sy3hXwBv3vA
 
 ## The End Conversation
 

@@ -9,7 +9,7 @@ time: "32:13"
 overall: "39/50"
 agegroup: ""
 tags:
-    - pgxc
+  - pgxc
 description: "After two days of 70 degree weather, our forecast called for 30s and lake effect snow with accumulation. Not feeling especially motivated, I emailed Brenda to see what weather conditions would make her bail."
 ---
 
@@ -35,7 +35,7 @@ Moments after arriving on the line the gun went off and we were running! It was 
 
 I passed several people and occasionally checked my watch. At one point prior to mile 2, my average pace had dropped to 8:23. I thought this was good knowing that the hills were at the end of the course and they'd slow me down. However, shortly after mile 2 the wind changed and the snow increased. Suddenly wind was gusting straight into my face and snow was pelting. I started to feel defeated.
 
-<iframe src="https://player.vimeo.com/video/192358136" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=neNMmDSGMr4
 
 As we hit an area of the course where we had to bound down a hill and then make a loop with a tight turn, I was so hungry that I was having trouble focusing on running. If someone had offered me food on the course I probably would have just walked off to eat. I started thinking intently about eating when Tonya's voice snapped me back into the race. She was so close behind me and she said something positive and encouraging. I had just over a mile to go! It was time to get my head focused.
 
@@ -51,7 +51,7 @@ As I hit the final sprint in, I realized that I'd be annoyed later if someone c
 
 Brenda and I went out to watch the men for a bit and then we popped back inside to warm up and then went back out to watch again. It was freezing but fun!
 
-They had a lot of great food for runners - soup, salad, bread etc. Scott and I had talked about going to Viva after the race and then decided we'd probably stay for food. 
+They had a lot of great food for runners - soup, salad, bread etc. Scott and I had talked about going to Viva after the race and then decided we'd probably stay for food.
 
 Ultimately [Viva](http://www.vivataqueria.com/) won out because those cheatin' vegan nachos just sounded so tempting! We chatted a bit and then headed down the hill to enjoy.
 
@@ -59,11 +59,11 @@ As we sat there waiting for our nachos, we received a series of texts from the k
 
 ## End of season thoughts
 
-Cross country is a great stretch assignment. I am SO happy I signed up for this. 
+Cross country is a great stretch assignment. I am SO happy I signed up for this.
 
-I look forward to next year and getting to know everyone better, training a bit better for this and keeping a positive attitude toward racing more often. 
+I look forward to next year and getting to know everyone better, training a bit better for this and keeping a positive attitude toward racing more often.
 
-I also look forward to getting more comfortable with pacing. With Scott present, we'll be able to take pictures of our teams running next year. 
+I also look forward to getting more comfortable with pacing. With Scott present, we'll be able to take pictures of our teams running next year.
 
 This is something I love to do for my kids' cross country, so I think it will be great fun for adult cross country too.
 

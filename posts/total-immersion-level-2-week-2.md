@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-2-week-2/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "With a temperature of -5, my car refused to start when I was out taking Xander to piano shortly before class. I had planned to drop him off after choir and head to do errands at Wegmans."
 ---
 
@@ -19,7 +19,7 @@ The pool was crowded, and the 4 of us got re-connected with Shane talking about 
 
 We had two lanes, and we worked through our standard progression, starting out with "lazy" swimming and moving into focused target points. Shane took video of our swimming, and we did our standard layering until things started to fall apart. He had us work with the tempo trainers at a tempo of our choosing. Here is my video.
 
-<iframe src="//player.vimeo.com/video/117261004" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=-BhtUK1u56k
 
 So, as I watched this video, I couldn't help but see my classmate zooming along through my video with much nicer form. I feel SO much more streamlined than when I started, but when I watch my video, it looks like I'm still moving like a snail. I also learned when we started to discuss the kick that I'm EXTREMELY right side focused, another fact that is obvious in my video.
 
@@ -37,6 +37,6 @@ Work at the pool barre, followed by drills for kicking and soon I felt like a dr
 
 This week my practice was more interesting than usual. My first session, I hopped in and had a lane to myself. I started with shoulder work and then went through my standard progression. After a solid "house of card" building in the pool, it was off to the warm pool for kick work. When I finished the kick practice, I rewarded myself with time in the hot tub where I met another swimmer who had trained with Shane. He said, "are you taking Shane's class?" and we promptly started talking about the kick. He shared that the kick had literally thrown him for a loop for WEEKS! He thought he'd never get it, and then one day it just clicked.
 
-A few days later, I was back in the pool again, and this was when I discovered how far I've come. The pool was FULL. I nabbed the last spot, sharing a lane with a gentleman. He was my lane partner for about 20 minutes, during which time the deck filled up with 2 swimmers waiting for any spot in the pool. He left, and one of those swimmers joined my lane, and another spot opened in the pool for the 2nd swimmer. I continued to happily swim along with my tempo trainer set when a woman tapped me on the shoulder and said, "I'm going to join you guys, ok?" Circle swimming! This is the time that I'd normally just get out. I can't keep up with other people, or swim around them. No way! But, this time I said, "sure" and happily kept swimming. It NEVER crossed my mind to leave the pool. I was only halfway through my practice. After a lap or two, we were both at the end of the pool and she said, "are you a Total Immersion swimmer?" Wow, twice in one week I was _spotted_! My form, though still very rough, is progressing to the point where it looks enough like TI to be recognized!!
+A few days later, I was back in the pool again, and this was when I discovered how far I've come. The pool was FULL. I nabbed the last spot, sharing a lane with a gentleman. He was my lane partner for about 20 minutes, during which time the deck filled up with 2 swimmers waiting for any spot in the pool. He left, and one of those swimmers joined my lane, and another spot opened in the pool for the 2nd swimmer. I continued to happily swim along with my tempo trainer set when a woman tapped me on the shoulder and said, "I'm going to join you guys, ok?" Circle swimming! This is the time that I'd normally just get out. I can't keep up with other people, or swim around them. No way! But, this time I said, "sure" and happily kept swimming. It NEVER crossed my mind to leave the pool. I was only halfway through my practice. After a lap or two, we were both at the end of the pool and she said, "are you a Total Immersion swimmer?" Wow, twice in one week I was *spotted*! My form, though still very rough, is progressing to the point where it looks enough like TI to be recognized!!
 
 I wasn't able to practice the kick at this practice, as there was a class in the warm pool, and every time I tried to work from the hip and kick, I felt off balance. But, I did use the side wall to do some drills at the end of several of the lengths. I'm very excited to continue work during class #3!!

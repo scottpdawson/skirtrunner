@@ -5,7 +5,7 @@ permalink: "hiking/hamilton-mountain/"
 hero: "/images/2018/08/IMG_1623.jpg"
 navigation: "Hiking"
 tags:
-    - oregon
+  - oregon
 description: "This was my first ever hike with Sarah's dog, Quiggly. I'd just met him for the first time a few days prior and she suggested that he might enjoy our hike up Hamilton Mountain in Washington."
 ---
 
@@ -80,12 +80,10 @@ Scott and I wanted to have beer so we thought we'd head to Hood River and hit a 
 
 After our late afternoon meal, we wandered over to watch the wind and kitesurfers. Scott got a short video of one of our favorite things at Hood River.
 
-<iframe src="https://player.vimeo.com/video/286500242" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=dyOEcwwrnAA
 
 ## Hiking statistics
 
 This day was 7.37 miles, 5.04 hours total time, 2169 ft ascent.
-
-<iframe src="https://player.vimeo.com/video/286655932" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <iframe src="https://www.strava.com/activities/1765103095/embed/a774a835ac6e5e48cfbb0b5db71975291b3410c9" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

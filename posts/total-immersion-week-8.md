@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-week-8/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "Last Friday I realized that our class was almost over. With a mere one class left, it was time to see if I could swim for a sustained duration so I could come armed with questions for the last class."
 ---
 
@@ -23,7 +23,7 @@ However, as the class continued, I eased back into things. We went back to circl
 
 Shane ended our session by swimming with each one of us. He would mirror our stroke and send us the video of the two of us swimming together. The class volunteered me to go first because I was SO cold _(and eager to get to the hot tub)._ So, off I went. This was really cool to watch. It was a great way to end class. After everyone finished their syncro session, we gathered in the hot tub and chatted for awhile. Most of my classmates plan to take session two this winter, and there was a lot of enthusiasm about moving forward in our respective swimming goals.
 
-<iframe src="//player.vimeo.com/video/110409347" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=UAPZLav6rXk
 
 ## What's Next
 

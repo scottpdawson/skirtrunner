@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-2-week-1/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "This class picks up where Level 1 ended, and the first night of class we spent the first 15 minutes working on dryland training much like each level 1 class started. Shane reminded us about the benefits of shoulder and scapular articulation."
 ---
 
@@ -33,8 +33,8 @@ However the faster speeds are tricky for me. My stroke feels really sloppy and I
 
 ## The Video
 
-As with session 1, Shane shot video of us swimming. It was cool because with just 4 of us in class, Shane was able to talk with each of us individually about our video while the other 3 class members were swimming. I was a lot less nervous about being taped this time than the first time around - each time he has taken video it's gotten a little easier! 
+As with session 1, Shane shot video of us swimming. It was cool because with just 4 of us in class, Shane was able to talk with each of us individually about our video while the other 3 class members were swimming. I was a lot less nervous about being taped this time than the first time around - each time he has taken video it's gotten a little easier!
 
-<iframe src="//player.vimeo.com/video/116174874" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=LgvxfdJ4SGw
 
 This week I look forward to practicing at least once in the water _(last session I was able to get 2 weekly sessions in but with ski season timing is much tricker)_, and working a lot on my dryland shoulder articulation - my biggest weakness!!

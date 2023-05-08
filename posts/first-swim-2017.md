@@ -5,7 +5,7 @@ permalink: "swim/first-swim-2017/"
 hero: "/images/pool-swimming.png"
 navigation: "Swimming"
 tags:
-    - pool
+  - pool
 description: "We've been at our gym in Ithaca for many years, but some things recently changed leading us to reconsider our fitness location. It has been almost a month that we've been gymless and that has been pretty weird!"
 ---
 
@@ -25,7 +25,7 @@ However, I am still a very slow swimmer. Shane is concerned that my shoulders l
 
 We came home from ski training and I was in my cake kitchen baking. My kids came running in, "We have an idea! What if we go to the Y and play racquetball????" We had taken them a few days prior to join and taught them the game. "Hmm..I thought. I played with Scott yesterday and my right arm is still sore." I checked the pool schedule and then said to everyone, "What if I finish up my baking and we head up there? You three can play racquetball and I can swim for the first time this season." We only own 3 racquets anyway, so this was a perfect plan! We did take a fun time lapse video of one of your racquetball games yesterday that I'll add here. One thing that is super cool about playing this sport as a older person is that I am a little less connected to the score, and a little less focused on getting cardio in during the game. I play with more focus on the game itself and had a lot of fun!
 
-https://vimeo.com/205712556
+https://www.youtube.com/watch?v=tJYBKH_e0jk
 
 ## Time to swim
 
@@ -45,7 +45,7 @@ In all the time that I'd worked on swimming, I just hadn't understood the should
 
 ## 1600: Not bad for the first time out
 
-I didn't count strokes. I wasn't ready to be potentially sad because my stroke count was too high. I didn't really time things, though I think my 1600 was just shy of 45 minutes. That is NOT fast. It is quite typical for me actually; about a 2:50/200 pace. One of my former swim classmates is on Strava and she was one of the slower swimmers with me when we took the class. She has been super dedicated to her swimming and has gotten really fast, regularly post posting 1:50 hundreds for very LONG distances! When I told Scott my swim time he said something about that not being fast. I said, "Yup, I know. It is almost off the pace chart on tri training plans even." I know this because when I looked at the Master's Swim pace chart last year I noted that the SLOWEST 100 pace on the chart was 3 min/100. My goal is to improve down the pace charts, though I'm happy that my pace is at least [ON THE CHART](https://www.usms.org/fitness/pacechart.php). _Note: there are other charts out there that go past 3 min 100s._ 
+I didn't count strokes. I wasn't ready to be potentially sad because my stroke count was too high. I didn't really time things, though I think my 1600 was just shy of 45 minutes. That is NOT fast. It is quite typical for me actually; about a 2:50/200 pace. One of my former swim classmates is on Strava and she was one of the slower swimmers with me when we took the class. She has been super dedicated to her swimming and has gotten really fast, regularly post posting 1:50 hundreds for very LONG distances! When I told Scott my swim time he said something about that not being fast. I said, "Yup, I know. It is almost off the pace chart on tri training plans even." I know this because when I looked at the Master's Swim pace chart last year I noted that the SLOWEST 100 pace on the chart was 3 min/100. My goal is to improve down the pace charts, though I'm happy that my pace is at least [ON THE CHART](https://www.usms.org/fitness/pacechart.php). _Note: there are other charts out there that go past 3 min 100s._
 
 ## Thoughts fluttering in my head while swimming
 

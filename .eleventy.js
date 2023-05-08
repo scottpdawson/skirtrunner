@@ -6,64 +6,63 @@ const slugify = require("slugify");
 const moment = require("moment");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
-module.exports = function(eleventyConfig) {
-
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addFilter("galleryImage", img => {
+  eleventyConfig.addFilter("galleryImage", (img) => {
     let resizeType = img.includes(".png") ? "fit" : "smartcrop";
-    return img + '?nf_resize=' + resizeType + '&w=213&h=213';
+    return img + "?nf_resize=" + resizeType + "&w=213&h=213";
   });
 
-  eleventyConfig.addFilter("heroImage", img => {
+  eleventyConfig.addFilter("heroImage", (img) => {
     let resizeType = img.includes(".png") ? "fit" : "smartcrop";
-    return img + '?nf_resize=' + resizeType + '&w=723&h=560';
-  });
-  
-  eleventyConfig.addFilter("contentImage", img => {
-    return img + '?nf_resize=fit&w=700';
+    return img + "?nf_resize=" + resizeType + "&w=723&h=560";
   });
 
-  eleventyConfig.addFilter("squash", require("./filters/squash.js") );
+  eleventyConfig.addFilter("contentImage", (img) => {
+    return img + "?nf_resize=fit&w=700";
+  });
+
+  eleventyConfig.addFilter("squash", require("./filters/squash.js"));
 
   // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
-  eleventyConfig.addFilter("momentDate", dateObj => {
-    return moment.utc(dateObj).format('MMMM D, YYYY');
+  eleventyConfig.addFilter("momentDate", (dateObj) => {
+    return moment.utc(dateObj).format("MMMM D, YYYY");
   });
 
-  eleventyConfig.addFilter("momentYear", dateObj => {
-    return moment.utc(dateObj).format('YYYY');
+  eleventyConfig.addFilter("momentYear", (dateObj) => {
+    return moment.utc(dateObj).format("YYYY");
   });
 
-  eleventyConfig.addFilter("momentUnix", dateObj => {
+  eleventyConfig.addFilter("momentUnix", (dateObj) => {
     return moment(dateObj).valueOf();
   });
 
-  eleventyConfig.addFilter("getYearArray", collection => {
+  eleventyConfig.addFilter("getYearArray", (collection) => {
     let yearArray = [];
     collection.forEach((item) => {
-      yearArray.push(moment.utc(item.date).format('YYYY'));
+      yearArray.push(moment.utc(item.date).format("YYYY"));
     });
     return [...new Set(yearArray)];
   });
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -73,72 +72,77 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("allPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav ? item : false );
+      return nav ? item : false;
     });
   });
 
   eleventyConfig.addCollection("trainingPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav && nav.toLowerCase() === "training" ? item : false );
-    }); 
+      return nav && nav.toLowerCase() === "training" ? item : false;
+    });
   });
 
   eleventyConfig.addCollection("racingPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav && nav.toLowerCase() === "racing" ? item : false );
-    }); 
+      return nav && nav.toLowerCase() === "racing" ? item : false;
+    });
   });
 
   eleventyConfig.addCollection("swimmingPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav && nav.toLowerCase() === "swimming" ? item : false );
-    }); 
+      return nav && nav.toLowerCase() === "swimming" ? item : false;
+    });
   });
 
   eleventyConfig.addCollection("hikingPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav && nav.toLowerCase() === "hiking" ? item : false );
-    }); 
+      return nav && nav.toLowerCase() === "hiking" ? item : false;
+    });
   });
 
   eleventyConfig.addCollection("musingPosts", (collection) => {
-    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+    return collection.getFilteredByGlob("posts/*.md").filter((item) => {
       const nav = item.data.navigation;
-      return ( nav && nav.toLowerCase() === "musing" ? item : false );
-    }); 
-  });  
+      return nav && nav.toLowerCase() === "musing" ? item : false;
+    });
+  });
 
   eleventyConfig.addCollection("tagList", require("./utils/getTagList.js"));
 
-  eleventyConfig.addNunjucksShortcode("lightbox", function(arr) {
-    let imageString = '';
+  eleventyConfig.addNunjucksShortcode("lightbox", function (arr) {
+    let imageString = "";
     for (i = 0; i < arr.length; i++) {
-      imageString = imageString + `<div class="carousel-cell">
+      imageString =
+        imageString +
+        `<div class="carousel-cell">
         <img 
           src="${arr[i].image}?nf_resize=fit&h=800" 
           title="${arr[i].caption}" 
           title="${arr[i].caption}" />
       </div>`;
     }
-    return(
-      `<div class="main-carousel" data-flickity='{ "fullscreen": true, "wrapAround": "true", "autoPlay": "3000", "pauseAutoPlayOnHover": true }'>${imageString}</div>`
-    );
+    return `<div class="main-carousel" data-flickity='{ "fullscreen": true, "wrapAround": "true", "autoPlay": "3000", "pauseAutoPlayOnHover": true }'>${imageString}</div>`;
   });
 
   const embedVimeo = require("eleventy-plugin-vimeo-embed");
   eleventyConfig.addPlugin(embedVimeo);
 
+  const embedYouTube = require("eleventy-plugin-youtube-embed");
+  eleventyConfig.addPlugin(embedYouTube, {
+    recommendSelfOnly: true,
+  });
+
   const pluginEmbedTweet = require("eleventy-plugin-embed-tweet");
   let tweetEmbedOptions = {
-      useInlineStyles: true,
-      autoEmbed: true,
-  }
+    useInlineStyles: true,
+    autoEmbed: true,
+  };
   eleventyConfig.addPlugin(pluginEmbedTweet, tweetEmbedOptions);
 
   const embedInstagram = require("eleventy-plugin-embed-instagram");
@@ -147,25 +151,25 @@ module.exports = function(eleventyConfig) {
   const pluginRss = require("@11ty/eleventy-plugin-rss");
   eleventyConfig.addPlugin(pluginRss);
 
-  const readingTime = require('eleventy-plugin-reading-time');
+  const readingTime = require("eleventy-plugin-reading-time");
   eleventyConfig.addPlugin(readingTime);
 
   eleventyConfig.addShortcode("picture", require("./utils/picture.js"));
   eleventyConfig.addShortcode("pictureRt", require("./utils/pictureRt.js"));
   eleventyConfig.addShortcode("pictureRtSm", require("./utils/pictureRtSm.js"));
   eleventyConfig.addShortcode("githubGist", require("./utils/githubGist.js"));
-  eleventyConfig.addShortcode("currentYear", function() {
+  eleventyConfig.addShortcode("currentYear", function () {
     const year = new Date().getFullYear();
     return `${year}`;
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
       return minified;
     }
@@ -173,35 +177,35 @@ module.exports = function(eleventyConfig) {
   });
 
   // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
+  eleventyConfig.addFilter("slugify", function (str) {
     return slugify(str, {
       lower: true,
       replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
+      remove: /[*+~.·,()'"`´%!?¿:@]/g,
     });
   });
 
-  eleventyConfig.addFilter('has_tag', function( arr, key, value ) {
-    return arr.filter( item => {
-        const keys = key.split( '.' );
-        const reduce = keys.reduce( ( object, key ) => {
-            return object[ key ];
-        }, item );
-        const str = String( reduce );
+  eleventyConfig.addFilter("has_tag", function (arr, key, value) {
+    return arr.filter((item) => {
+      const keys = key.split(".");
+      const reduce = keys.reduce((object, key) => {
+        return object[key];
+      }, item);
+      const str = String(reduce);
 
-        return ( str.includes( value ) ? item : false );
+      return str.includes(value) ? item : false;
     });
   });
 
-  eleventyConfig.addFilter('lacks_tag', function( arr, key, value ) {
-    return arr.filter( item => {
-        const keys = key.split( '.' );
-        const reduce = keys.reduce( ( object, key ) => {
-            return object[ key ];
-        }, item );
-        const str = String( reduce );
+  eleventyConfig.addFilter("lacks_tag", function (arr, key, value) {
+    return arr.filter((item) => {
+      const keys = key.split(".");
+      const reduce = keys.reduce((object, key) => {
+        return object[key];
+      }, item);
+      const str = String(reduce);
 
-        return ( str.includes( value ) ? false : item );
+      return str.includes(value) ? false : item;
     });
   });
 
@@ -215,22 +219,22 @@ module.exports = function(eleventyConfig) {
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
-  var markdownItAttrs = require('markdown-it-attrs');
+  var markdownItAttrs = require("markdown-it-attrs");
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   };
   let opts = {
-    permalink: false
+    permalink: false,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-    .use(markdownItAttrs, {
-      leftDelimiter: '{',
-      rightDelimiter: '}',
-      allowedAttributes: []  // empty array = all attributes are allowed
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts).use(markdownItAttrs, {
+      leftDelimiter: "{",
+      rightDelimiter: "}",
+      allowedAttributes: [], // empty array = all attributes are allowed
     })
   );
 
@@ -244,7 +248,7 @@ module.exports = function(eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };

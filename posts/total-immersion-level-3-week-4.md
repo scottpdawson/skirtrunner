@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-3-week-4/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "Our class met over spring break. It was a freezing cold week in Ithaca, NY and I was rather happy that Shane still held class. During break, there were no kid activities on the calendar so no busses, help from others, or rushing around required!"
 ---
 
@@ -23,9 +23,9 @@ Shane has been telling us we're going to learn to control our stroke count and s
 
 He shared the two ways to go faster; increase stroke length and # strokes per length or increase tempo. To increase our tempo, you just need to make your weight shifts happen more quickly, thus gaining time, BUT you have to work to keep your efficiency stable. To increase the stroke length you can increase the amount of time gliding, improve your balance or play with the pressure applied to the water. These are all really neat nuances, but since I keep falling out of balance on a weekly basis, I wasn't so sure how I'd do with the gear thing.
 
-Pretty soon we were swimming. For our first 50 we would swim at our baseline SPL. I was really jazzed that I managed to hit 18 both down and back! Then, we were asked to _add_ one stroke per length. This felt pretty easy too. I nailed it. Then, for our last 50 we added one more stroke. Success again! I hit 20 SPL with ease. He asked us our strategy. Mine "I got tired." It was true. I was rather winded by the end of the drill.
+Pretty soon we were swimming. For our first 50 we would swim at our baseline SPL. I was really jazzed that I managed to hit 18 both down and back! Then, we were asked to *add* one stroke per length. This felt pretty easy too. I nailed it. Then, for our last 50 we added one more stroke. Success again! I hit 20 SPL with ease. He asked us our strategy. Mine "I got tired." It was true. I was rather winded by the end of the drill.
 
-Then he asked us to _reverse_ it! Three 50s starting at our highest SPL and dropping one stroke each time. I was sad to say that while I was able to start at 20, I held constant at 20. I think that my very last length may have been 19, but it wasn't successful. I was tired and also felt more pressure for this.
+Then he asked us to *reverse* it! Three 50s starting at our highest SPL and dropping one stroke each time. I was sad to say that while I was able to start at 20, I held constant at 20. I think that my very last length may have been 19, but it wasn't successful. I was tired and also felt more pressure for this.
 
 ## Final Swim
 
@@ -35,7 +35,7 @@ Overall I felt really positive about this. I enjoyed the sustained swim, and fel
 
 ## My Video
 
-<iframe src="https://player.vimeo.com/video/124105710" width="100%" height="282" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=GnthdF7BUao
 
 ## Random Thoughts
 

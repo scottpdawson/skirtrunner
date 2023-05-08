@@ -5,7 +5,7 @@ permalink: "swim/total-immersion-level-2-week-6/"
 hero: "/images/total-immersion.png"
 navigation: "Swimming"
 tags:
-    - total immersion
+  - total immersion
 description: "I must have gotten into some bad habits during my training this week. After what felt like a super successful baseline mile attempt, I felt really confident. But, a couple days letter when I was dying to go back and see if this was repeatable I had a terrible swim."
 ---
 
@@ -47,4 +47,4 @@ After I finished the swim, I decided I would sign up for the Tri for the Y at th
 
 This video is from our final 5 minutes of swimming. I need to work on keeping my legs calm behind me so that I don't break the water with my kick. I also need to work to start my kick with my left leg and my right leg vs always using my right leg. And then there's the poise point, staying in the front quadrant etc.
 
-<iframe src="//player.vimeo.com/video/119439130" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=erambzypcC4
