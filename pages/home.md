@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## Hi. I'm Amy Dawson!
 
-- I am a technology integration coach at Trumansburg Central School
+- I am a 7th grade math teacher at Trumansburg Central School
 - I am the proprietor of [Emoticakes](https://emoticakes.com/), a commercial bakery in Trumansburg.
 - I love to write about my running, hiking, and swimming. Find out [why I consider myself an accidental runner](/about-me/)!
 
