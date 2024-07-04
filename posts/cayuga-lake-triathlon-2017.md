@@ -57,7 +57,7 @@ In the bathroom line, I struck up a conversation with the gentleman behind me. H
 
 The now familiar pre-swim corral phrase. It always seems to pop up!  One of the women said to us all, "do like Dory does and just keep swimming!" Yes, when the alternative is to stop and sink, one must just keep swimming!
 
-https://www.youtube.com/watch?v=qiuTYucSt98
+{% youtube "https://www.youtube.com/watch?v=qiuTYucSt98" %}
 
 My wave went off before I could even worry too much, and soon I was in the fray of swimmers. I've been kicked before, but never as hard as I was just a few buoys in. I was behind someone breaststroking and I was foolishly trying to get around her. Not a fast swimmer, I should have taken a wider line or just settled in behind her. Still, I thought I had enough clearance. Instead she kicked me straight on in my eye, knocking my goggles off. I reacted quickly enough not to lose my contacts, and tried to put my goggles back on while holding a little orange buoy. I couldn't adjust them so I waved for a kayak and quickly swam over toward Kris. I was pretty freaked out and she took time to introduce herself, asked my name all while reassuring me me that I could hang as long as I needed. It was so early in the swim!  I got them back on as she said, "don't worry, there are still a few white caps behind you." "Great, I thought, now I am even farther back than I was before!" I started to swim again, but hadn't even made the next big buoy when my goggles were full of water again. I flagged another kayak and adjusted as quickly as possible so I could get on my way. I have never hung onto a kayak before and here I had done it twice in the span of what was probably less than 2 minutes!! Luckily this time it worked and I was on my way.
 

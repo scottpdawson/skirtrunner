@@ -41,4 +41,4 @@ We've been doing Yin/Yang drills for many weeks now. When they first started, I 
 
 ## The Video
 
-https://www.youtube.com/watch?v=lbmttgffwZE
+{% youtube "https://www.youtube.com/watch?v=lbmttgffwZE" %}

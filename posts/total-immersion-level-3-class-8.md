@@ -41,4 +41,4 @@ I say that Shane was brilliant because if he hadn't done this, I very likely wou
 
 The video does tell all. I'm still working hard at getting basic technique. My shoulders aren't articulating properly and I'm not gliding through the water like my classmates. But, as with all learning, every person has a pace and everything does have a learning curve. I like to think that I am on the bell curve, just sitting at the very far left right now. I hope to move myself more to center over time and practice.
 
-https://www.youtube.com/watch?v=NqbacRd687M
+{% youtube "https://www.youtube.com/watch?v=NqbacRd687M" %}

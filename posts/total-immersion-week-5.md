@@ -23,7 +23,7 @@ I felt really confident. My practice had gone well, and I thought I was getting 
 
 And a video speaks the truth. I'm not there yet; not even close! I cried all the way home from my lesson. The next morning I was supposed to get up for my Wednesday morning 6 a.m. BodyPump class and actually said aloud,  *"perhaps I should just give up exercise in general and watch TV and eat."* Luckily I remembered Dr. Getzin's comment when I had an injured knee "an object in motion tends to stay in motion" and pretty soon I was off to class! My video is below, along with a link for what [perfect form](https://www.youtube.com/watch?v=rJpFVvho0o4&index=1&list=PL32353D4BEDCC8F03 "Total Immersion ") should look like.
 
-https://www.youtube.com/watch?v=rcs14sg1lMw
+{% youtube "https://www.youtube.com/watch?v=rcs14sg1lMw" %}
 
 ## The Morning After
 

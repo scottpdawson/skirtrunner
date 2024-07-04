@@ -47,4 +47,4 @@ After I finished the swim, I decided I would sign up for the Tri for the Y at th
 
 This video is from our final 5 minutes of swimming. I need to work on keeping my legs calm behind me so that I don't break the water with my kick. I also need to work to start my kick with my left leg and my right leg vs always using my right leg. And then there's the poise point, staying in the front quadrant etc.
 
-https://www.youtube.com/watch?v=erambzypcC4
+{% youtube "https://www.youtube.com/watch?v=erambzypcC4" %}

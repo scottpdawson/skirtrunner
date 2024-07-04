@@ -25,7 +25,7 @@ However, I am still a very slow swimmer. Shane is concerned that my shoulders l
 
 We came home from ski training and I was in my cake kitchen baking. My kids came running in, "We have an idea! What if we go to the Y and play racquetball????" We had taken them a few days prior to join and taught them the game. "Hmm..I thought. I played with Scott yesterday and my right arm is still sore." I checked the pool schedule and then said to everyone, "What if I finish up my baking and we head up there? You three can play racquetball and I can swim for the first time this season." We only own 3 racquets anyway, so this was a perfect plan! We did take a fun time lapse video of one of your racquetball games yesterday that I'll add here. One thing that is super cool about playing this sport as a older person is that I am a little less connected to the score, and a little less focused on getting cardio in during the game. I play with more focus on the game itself and had a lot of fun!
 
-https://www.youtube.com/watch?v=tJYBKH_e0jk
+{% youtube "https://www.youtube.com/watch?v=tJYBKH_e0jk" %}
 
 ## Time to swim
 

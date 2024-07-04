@@ -23,7 +23,7 @@ However, as the class continued, I eased back into things. We went back to circl
 
 Shane ended our session by swimming with each one of us. He would mirror our stroke and send us the video of the two of us swimming together. The class volunteered me to go first because I was SO cold _(and eager to get to the hot tub)._ So, off I went. This was really cool to watch. It was a great way to end class. After everyone finished their syncro session, we gathered in the hot tub and chatted for awhile. Most of my classmates plan to take session two this winter, and there was a lot of enthusiasm about moving forward in our respective swimming goals.
 
-https://www.youtube.com/watch?v=UAPZLav6rXk
+{% youtube "https://www.youtube.com/watch?v=UAPZLav6rXk" %}
 
 ## What's Next
 

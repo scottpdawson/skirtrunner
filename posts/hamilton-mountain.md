@@ -80,7 +80,7 @@ Scott and I wanted to have beer so we thought we'd head to Hood River and hit a 
 
 After our late afternoon meal, we wandered over to watch the wind and kitesurfers. Scott got a short video of one of our favorite things at Hood River.
 
-https://www.youtube.com/watch?v=dyOEcwwrnAA
+{% youtube "https://www.youtube.com/watch?v=dyOEcwwrnAA" %}
 
 ## Hiking statistics
 

@@ -75,7 +75,7 @@ After we enjoyed lunch, we were ready to continue on the rest of our journey. We
 
 Scott got a neat video of the [orographic lift](https://en.wikipedia.org/wiki/Orographic_lift) that we were observing on Mt. Hood. He also posted this video on his own [blog](https://scottpdawson.com/ramona-falls-to-bald-mountain/), as well as his recollections of the hike.
 
-https://www.youtube.com/watch?v=GPzzPbry1vA
+{% youtube "https://www.youtube.com/watch?v=GPzzPbry1vA" %}
 
 ## The rest of the story
 

@@ -47,7 +47,7 @@ The last time I ran this race it was a spring race and it was a snowstorm. Scott
 
 ### The start line
 
-https://www.youtube.com/watch?v=XEkys7jClCc
+{% youtube "https://www.youtube.com/watch?v=XEkys7jClCc" %}
 
 Aah the start line. The energy was amazing! We had planned to spend 10 minutes in the [OnCenter](https://www.oncenter.org/) staying warm but didn't need to. Instead we all said our goodbyes and lined up. Scott went to the front, Xander went up a little bit and Elizabeth and I popped into the 9-11 minute mile area. We talked and absorbed the energy from the crowd. I kept thinking I should be further up and I'd be doing a lot of dodging and weaving for the first 2 miles, but I also just wanted to enjoy the chance to hang together at the start. Soon the gun went off and we were all starting our respective races.
 
@@ -111,7 +111,7 @@ I connected with Scott and Xander and heard all about their races. Scott came in
 
 Once inside the OnCenter we enjoyed the festivities of a great post race party. They had pizza and apples and bagels and cookies along with a race morning pancake breakfast. We didn't indulge too much - after all we were heading to Viva to celebrate! Scott picked up his prize [($25 to Dinosaur BBQ yay!)](https://www.dinosaurbarbque.com/syracuse/) and we slowly walked back to the hotel to shower and change to get ready for our drive home.
 
-https://www.youtube.com/watch?v=l7U1qKuE3D8
+{% youtube "https://www.youtube.com/watch?v=l7U1qKuE3D8" %}
 
 {% lightbox [
     { caption: "With Scott at Viva.", image: "/images/2019/11/oct-2-3.jpg" },

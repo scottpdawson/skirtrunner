@@ -35,7 +35,7 @@ Moments after arriving on the line the gun went off and we were running! It was 
 
 I passed several people and occasionally checked my watch. At one point prior to mile 2, my average pace had dropped to 8:23. I thought this was good knowing that the hills were at the end of the course and they'd slow me down. However, shortly after mile 2 the wind changed and the snow increased. Suddenly wind was gusting straight into my face and snow was pelting. I started to feel defeated.
 
-https://www.youtube.com/watch?v=neNMmDSGMr4
+{% youtube "https://www.youtube.com/watch?v=neNMmDSGMr4" %}
 
 As we hit an area of the course where we had to bound down a hill and then make a loop with a tight turn, I was so hungry that I was having trouble focusing on running. If someone had offered me food on the course I probably would have just walked off to eat. I started thinking intently about eating when Tonya's voice snapped me back into the race. She was so close behind me and she said something positive and encouraging. I had just over a mile to go! It was time to get my head focused.
 

@@ -31,7 +31,7 @@ Eventually we got to the "yin-yang" drill. After one pass through, I felt like S
 
 To end class, Shane asked us to swim a continuous 300. The pool had emptied out, so we each had our own land. We were free to choose our tempo with the tempo trainer. He asked us to focus on a sustainable breathing pattern. I started with the trainer set at 146. This is my typical "comfy swimming" setting _(but Shane reminds me that for my short body I need to be striving for a much faster tempo)_. Halfway into my first length I realized I was hanging out waiting for the beep for awhile. I stopped to re-set to 136. I know one of my classmates typically uses this setting and thought I'd give it a go. To my surprise I was able to keep up with the beeps. Shane's YY drill had really helped me move more into the front quadrant. That meant my turnover was quicker, so the faster tempo felt comfortable.
 
-https://www.youtube.com/watch?v=sy3hXwBv3vA
+{% youtube "https://www.youtube.com/watch?v=sy3hXwBv3vA" %}
 
 ## The End Conversation
 

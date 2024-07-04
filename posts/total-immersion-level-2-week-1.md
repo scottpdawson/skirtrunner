@@ -35,6 +35,6 @@ However the faster speeds are tricky for me. My stroke feels really sloppy and I
 
 As with session 1, Shane shot video of us swimming. It was cool because with just 4 of us in class, Shane was able to talk with each of us individually about our video while the other 3 class members were swimming. I was a lot less nervous about being taped this time than the first time around - each time he has taken video it's gotten a little easier!
 
-https://www.youtube.com/watch?v=LgvxfdJ4SGw
+{% youtube "https://www.youtube.com/watch?v=LgvxfdJ4SGw" %}
 
 This week I look forward to practicing at least once in the water _(last session I was able to get 2 weekly sessions in but with ski season timing is much tricker)_, and working a lot on my dryland shoulder articulation - my biggest weakness!!

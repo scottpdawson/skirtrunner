@@ -36,7 +36,7 @@ And then there's the timing for releasing the breath. For some reason, the momen
 
 There were six of us in class this week. Our actual class has 4 members, but Shane also offers a Monday evening session. There was a snowstorm on Monday, and two members from the Monday class joined us. We took 2 lanes, and in the lane I found myself swimming next to Deidra for part of the evening. At first this caused me great stress. I wasn't able to swim next to her without trying to keep up. As a result, my form was sloppy, and my head was thinking, "You're losing ground! You can't keep up." But, as time went on, I calmed my thinking, reminding myself that this was class #5 of 8. I couldn't waste the valuable learning opportunity from one class because I was trying to "race" with my classmate when she didn't even know I was racing her. The cool part of swimming next to someone for me is that I pick up bits of their stroke. I noticed how "fishlike" Deidra was looking. She was achieving the snap from the core and the glide much better than I was. She was very streamlined. The video Shane captured this week clearly shows that difference. I was rather happy to see that my video had both of us swimming. _(Of course I got Deidra's permission before posting it)._
 
-https://www.youtube.com/watch?v=w67Ej81UH6Y
+{% youtube "https://www.youtube.com/watch?v=w67Ej81UH6Y" %}
 
 ## Baseline Mile
 

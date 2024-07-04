@@ -133,11 +133,6 @@ module.exports = function (eleventyConfig) {
   const embedVimeo = require("eleventy-plugin-vimeo-embed");
   eleventyConfig.addPlugin(embedVimeo);
 
-  const embedYouTube = require("eleventy-plugin-youtube-embed");
-  eleventyConfig.addPlugin(embedYouTube, {
-    recommendSelfOnly: true,
-  });
-
   const pluginEmbedTweet = require("eleventy-plugin-embed-tweet");
   let tweetEmbedOptions = {
     useInlineStyles: true,
@@ -161,6 +156,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("currentYear", function () {
     const year = new Date().getFullYear();
     return `${year}`;
+  });
+
+  eleventyConfig.addShortcode("youtube", (videoURL, title) => {
+    const url = new URL(videoURL);
+    const id = url.searchParams.get("v");
+    return `
+<iframe class="yt-embed" style="height: 50vw; margin: 1rem 0; max-height: 25rem; width: 100%;" src="https://www.youtube.com/embed/${id}" title="YouTube video player${
+      title ? ` for ${title}` : ""
+    }" frameborder="0" allowfullscreen></iframe>
+`;
   });
 
   // Minify HTML output

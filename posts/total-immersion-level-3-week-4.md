@@ -35,7 +35,7 @@ Overall I felt really positive about this. I enjoyed the sustained swim, and fel
 
 ## My Video
 
-https://www.youtube.com/watch?v=GnthdF7BUao
+{% youtube "https://www.youtube.com/watch?v=GnthdF7BUao" %}
 
 ## Random Thoughts
 

@@ -56,7 +56,7 @@ When you look back on 200 days of hiking, you can't not be impressed by what it 
 
 Whew! That's a lot. We're glad we spread it out over 200 days! Here's a video montage of the days we have pictures for. Fantastic memories.
 
-https://www.youtube.com/watch?v=CZW8jDdFtO8
+{% youtube "https://www.youtube.com/watch?v=CZW8jDdFtO8" %}
 
 ## In the News
 

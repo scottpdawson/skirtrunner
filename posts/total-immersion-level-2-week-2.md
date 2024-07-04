@@ -19,7 +19,7 @@ The pool was crowded, and the 4 of us got re-connected with Shane talking about 
 
 We had two lanes, and we worked through our standard progression, starting out with "lazy" swimming and moving into focused target points. Shane took video of our swimming, and we did our standard layering until things started to fall apart. He had us work with the tempo trainers at a tempo of our choosing. Here is my video.
 
-https://www.youtube.com/watch?v=-BhtUK1u56k
+{% youtube "https://www.youtube.com/watch?v=-BhtUK1u56k" %}
 
 So, as I watched this video, I couldn't help but see my classmate zooming along through my video with much nicer form. I feel SO much more streamlined than when I started, but when I watch my video, it looks like I'm still moving like a snail. I also learned when we started to discuss the kick that I'm EXTREMELY right side focused, another fact that is obvious in my video.
 

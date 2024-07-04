@@ -23,7 +23,7 @@ A few days later, I ventured to the pool again. I'm noticing that my heart doesn
 
 Shane brought his ipad to class again, so we knew we'd be videotaped. There were three occasions where I thought he was taping me, but the one he actually taped was a time that I thought he was taping the man in the lane next to me. I don't think it changed my swimming too much, except that I was trying to slow down to not block him and to not be in his video. As it turns out, it was my video! At first glance to me it doesn't look a lot better, but Shane says I'm starting to get it, and Scott could see a difference as well. I'm already looking forward to practicing this week and seeing next week's video!
 
-https://www.youtube.com/watch?v=lRb58z8Lxv0
+{% youtube "https://www.youtube.com/watch?v=lRb58z8Lxv0" %}
 
 ## Fins Anyone?
 
