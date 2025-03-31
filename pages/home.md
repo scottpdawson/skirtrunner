@@ -10,7 +10,7 @@ eleventyNavigation:
 ## Hi. I'm Amy Dawson!
 
 - I am a 7th grade math teacher at Trumansburg Central School
-- I am the proprietor of [Emoticakes](https://emoticakes.com/), a commercial bakery in Trumansburg.
+- I owned [Emoticakes](https://emoticakes.com/) up until closing in October 2024
 - I love to write about my running, hiking, and swimming. Find out [why I consider myself an accidental runner](/about-me/)!
 
 ## What's New?
