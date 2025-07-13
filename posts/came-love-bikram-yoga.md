@@ -5,8 +5,8 @@ permalink: "yoga/came-love-bikram-yoga/"
 hero: "/images/2018/04/IMG_7959.jpg"
 navigation: "Musing"
 tags:
-    - bikram
-    - hot yoga
+  - bikram
+  - hot yoga
 description: "My experiences with yoga have been varied and inconsistent until this year. When my kids were younger I organized a yoga class for a bunch of stay at home moms, finding a teacher and time that worked for us all at a local yoga studio."
 ---
 
@@ -22,7 +22,7 @@ As I write this, I've been going pretty regularly for almost a year now, but the
 
 ## Kathleen does Bikram
 
-My friend Kathleen mentions her Bikram Yoga class at [Pure Sweat Yoga](http://www.puresweatyoga.com/) to me from time to time. Last summer we were hiking and talking about fitness things and she invited me to join her for a 6:30 am class. "Sure, why not?" I really like hanging out with Kathleen and I honestly thought it would be fun to see her despite the yoga. The date we picked was still a few weeks away so I had time to get my head wrapped around it.  She told me what to expect and we made a plan.
+My friend Kathleen mentions her Bikram Yoga class at Pure Sweat Yoga to me from time to time. Last summer we were hiking and talking about fitness things and she invited me to join her for a 6:30 am class. "Sure, why not?" I really like hanging out with Kathleen and I honestly thought it would be fun to see her despite the yoga. The date we picked was still a few weeks away so I had time to get my head wrapped around it.  She told me what to expect and we made a plan.
 
 In those few weeks, the last of summer, I got a job as a long term sub teaching grade 7 math. The first teacher day was the day of our scheduled yoga class.  I waffled about whether to go for an insanely long time, finally canceling on her the night before the class. The class was in Ithaca, I had to be at school looking presentable and I would never be able to go at this particular time again. I felt really sad about it, but it made sense.
 
@@ -52,7 +52,7 @@ The Monday after my first class Scott and I were doing our regular Monday Les Mi
 
 ## Have you ever tried drugs Amy?
 
-As someone who owns my [own business](http://www.emoticakes.com), I know the importance of the [connectors](https://www.productiveflourishing.com/maven-connector-or-salesperson-whats-your-archetype/) in the world. Those people who like your product and will tell all of their friends. By nature I'm a connector. I like to share my positive experiences with as many people as I can.  At my team meeting the Monday after the class I told my fellow teachers about this experience. One of my colleagues said, "wow the brain can really be altered in the heat." I continued on and on about how amazing this class was and then she said, "Amy have you ever used drugs?" No. She joked that I'd probably be a good candidate. No one on the team was sold on coming with me .. yet. However, two of my friends were willing to give it a go. They both tried it and liked it, but due to injury and some other factors it didn't end up being a fit.
+As someone who owns my [own business](https://www.emoticakes.com), I know the importance of the [connectors](https://www.productiveflourishing.com/maven-connector-or-salesperson-whats-your-archetype/) in the world. Those people who like your product and will tell all of their friends. By nature I'm a connector. I like to share my positive experiences with as many people as I can.  At my team meeting the Monday after the class I told my fellow teachers about this experience. One of my colleagues said, "wow the brain can really be altered in the heat." I continued on and on about how amazing this class was and then she said, "Amy have you ever used drugs?" No. She joked that I'd probably be a good candidate. No one on the team was sold on coming with me .. yet. However, two of my friends were willing to give it a go. They both tried it and liked it, but due to injury and some other factors it didn't end up being a fit.
 
 {% picture "/images/2018/04/IMG_7961.jpg", "With Scott after my 3rd class and his first!" %}
 
@@ -62,11 +62,11 @@ This week I took my friend Kathey. She wasn't sure she'd manage the heat but I k
 
 ## Time for a punch pass
 
-[Pure Sweat](https://www.facebook.com/PureSweatYoga/) does this nice thing where they let you try yoga for 10 days for $20. A drop in class is $20 but they also offer various membership levels. After my 10 day trial and one drop in class I decided it was time for a punch pass. I am now committed to regular attendance!!
+Pure Sweat does this nice thing where they let you try yoga for 10 days for $20. A drop in class is $20 but they also offer various membership levels. After my 10 day trial and one drop in class I decided it was time for a punch pass. I am now committed to regular attendance!!
 
 ## The poses
 
-I found this [really awesome page](https://www.bikramyoga.com/about/26-postures/) about the poses. I don't look anything like this when I do the poses!! I think it is cool because it says what each pose does for you. I think I'll visit the page every now and then to remind myself about the goals of this.
+I found this [really awesome page](https://www.bikramyogaposesguide.com/) about the poses. I don't look anything like this when I do the poses!! I think it is cool because it says what each pose does for you. I think I'll visit the page every now and then to remind myself about the goals of this.
 
 ## Benefits of Bikram
 
